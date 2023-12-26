@@ -9,8 +9,6 @@ title: Publications
 
 ### Journal Papers
 
-#### International
-
 - **Song, J.Y.**, McLaskey, G. (*). Experimental observation of the slip behavior of an isolated seismic asperity Laboratory earthquake ruptures confined by velocity strengthening fault patches. **Submitted to JGR**
 - **Song, J.Y.**, Dass, A., Moridi, A., and McLaskey, G. (*). Detection of Defects during Laser-Powder Interaction by Acoustic Emission Sensors and Signal Characteristics. **Submitted to Additive Manufacturing**
 - **Song, J.Y.**, Jeong, Y.J., and Yun, T.S. (2022). Effects of anisotropy and CO2 wettability on CO2 storage capacity in sandstone. Geofluids, 2022.
@@ -26,8 +24,6 @@ title: Publications
 
 
 ### Conference Papers
-
-#### International
 
 - **Song, J.Y.** and McLaskey, G.C. (2023). Experimental study of an isolated seismic asperity surrounded by a velocity strengthening fault: aseismic slip, periodic slip, and non-periodic slip. Poster presentation delivered at AGU Fall Meeting 2023, Moscone Center, San Francisco, USA.
 - **Song, J.Y.**, Dass, A., Moridi, A., and McLaskey, G.C. (2023). Crack detection using Acoustic Emission sensors in Additive Manufacturing. Oral presentation delivered at AEWG-64 2023, Crown Plaza Hotel, Princeton, New Jersey, USA.
