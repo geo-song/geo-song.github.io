@@ -2,7 +2,7 @@
 layout: page
 title: 
 subtitle:  
-cover-img: /assets/img/Cloud.jpg
+cover-img: /assets/img/Cloud_wide.jpg
 ---
 
 <br/>
