@@ -10,7 +10,7 @@ title: Publications
 ### Journal Papers
 
 - **Song, J.Y.**, McLaskey, G. (*). Experimental observation of the slip behavior of an isolated seismic asperity Laboratory earthquake ruptures confined by velocity strengthening fault patches. **Submitted to JGR**
-- **Song, J.Y.**, Dass, A., Moridi, A., and McLaskey, G. (*). Detection of Defects during Laser-Powder Interaction by Acoustic Emission Sensors and Signal Characteristics. **Submitted to Additive Manufacturing**
+- **Song, J.Y.**, Dass, A., Moridi, A., and McLaskey, G. (2024). Detection of Defects during Laser-Powder Interaction by Acoustic Emission Sensors and Signal Characteristics. Additive Manufacturing, 104035.
 - **Song, J.Y.**, Jeong, Y.J., and Yun, T.S. (2022). Effects of anisotropy and CO2 wettability on CO2 storage capacity in sandstone. Geofluids, 2022.
 - Kim, Y., Ma, J., Lim, S.Y., **Song, J.Y.**, and Yun, T.S. (2022). How to determine shape parameters of sands: A deep learning approach. Acta Geotechnica, 17(4), pp.1521-1531.
 - **Song, J.Y.**, Sim, Y., Yeom, S., Jang, J., and Yun, T.S. (2020). Stiffness loss in enzyme-induced carbonate precipitated sand with stress scenarios. Geomechanics and Engineering, 20(2), 165-174.
