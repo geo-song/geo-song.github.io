@@ -10,8 +10,8 @@ title: Publications
 ### Journal Papers
 
 corresponding author(*) and co-first author (+)
-- **Song, J.Y.(+)**, Cebry, S.B.L.(+), and McLaskey, G.C.* Fully Contained Laboratory Earthquakes: The Effect of Aspect Ratio of Rectangular Asperity and Free Surface (In preparation)
-- **Song, J.Y.(*)**, Lingfu Liu, Chloe Arson, and McLaskey, G.C. Experimental Insights into Fluid-Induced Fault Behavior: Seismicity Migration under Varying Injection Rate and Viscosity (In preparation)
+- **Song, J.Y.(+)**, Cebry, S.B.L.(+), and McLaskey, G.C.* Fully Contained Laboratory Earthquakes: The Effect of Aspect Ratio of Rectangular Asperity and Free Surface **In preparation**
+- **Song, J.Y.(*)**, Lingfu Liu, Chloe Arson, and McLaskey, G.C. Experimental Insights into Fluid-Induced Fault Behavior: Seismicity Migration under Varying Injection Rate and Viscosity **In preparation**
 - **Song, J.Y.(*)**, Cattania, C. and McLaskey, G., 2025. Fault healing and asperity partitioning on a frictionally heterogeneous laboratory fault. **Submitted to JGR**.
 - Suh, H.S., **Song, J.Y.**, Kim, Y., Yu, X. and Choo, J.(*) (2024). Data-driven discovery of interpretable water retention models for deformable porous media. Acta Geotechnica, 19(6), pp.3821-3835.
 - **Song, J.Y.**, McLaskey, G.(*) (2024). Laboratory earthquake ruptures contained by velocity strengthening fault patches. Journal of Geophysical Research: Solid Earth, 129(4), p.e2023JB028509.
