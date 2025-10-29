@@ -20,7 +20,7 @@ title: About me
 	Laboratory creep-controlled hydraulic fracturing
 	Developing construction materials from mine tailings
 
-•	**R&D Geoscience Summer Internship** Eden Geopower, May 2025 - Aug 2025
+•	**R&D Geoscience Summer Internship**, Eden Geopower, May 2025 - Aug 2025
 
 	Geomechanical experiments including hydraulic fracturing and electrical pulse fracturing
 	Developing biaxial machine
