@@ -15,7 +15,7 @@ navbar-links:
   About me: "about"
   Research: "research"
   Publications: "publication"
-  CV: "CV"
+#  CV: "CV"
   Google Scholar: "https://scholar.google.com/citations?user=IMmCoXYAAAAJ&hl=en"
 
 
