@@ -16,7 +16,7 @@ Global energy demands require innovative geological engineering that balances en
 ### Earthquake Mechanics: Experiments-Simulations Bridging through Heterogeneity
 Laboratory earthquake studies have often employed homogeneous fault conditions, which fail to capture the heterogeneity of real earthquake faults, whereas simulation studies typically incorporate it. This study focused on bridging this critical gap by developing experimental techniques that replicate frictionally heterogeneous fault conditions, with experiments conducted using 760 mm long Polymethyl methacrylate (PMMA) blocks in a biaxial machine. Studies of heterogeneous laboratory faults with PMMA and Teflon have revealed diverse slip behaviors that closely replicate quasi-dynamic earthquake simulations. By combining experiments and simulations, this work demonstrates that laboratory insights can be directly linked to natural earthquake processes, providing a robust framework for understanding fault slip dynamics and improving seismic hazard assessment.
 <p align="center">
-<img width="430" height="250" alt="Earthquake" src="https://github.com/user-attachments/assets/cdd13c31-e2ad-4ede-be2d-9fdcf48739f4" />
+<img width="500" height="300" alt="Earthquake" src="https://github.com/user-attachments/assets/cdd13c31-e2ad-4ede-be2d-9fdcf48739f4" />
 </p>
   
 ### Investigating Anthropogenic Effects on Shear Failure
