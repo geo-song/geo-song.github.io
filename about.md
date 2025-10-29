@@ -13,6 +13,7 @@ title: About me
 
 •	**B.S.** Yonsei University, Civil and Environmental Engineering, Aug 2017
 
+
 # Professional experience
 •	**Post-Doctoral Fellow**, Colorado School of Mines, Civil and Environmental Engineering, Jan 2026 - Current
 
