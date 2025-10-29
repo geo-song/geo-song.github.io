@@ -16,9 +16,15 @@ title: About me
 
 # Professional experience
 •	**Post-Doctoral Fellow**, Colorado School of Mines, Civil and Environmental Engineering, Jan 2026 - Current
+	Laboratory creep-controlled hydraulic fracturing
+	Developing construction materials from mine tailings
 
 •	**R&D Geoscience Summer Internship** Eden Geopower, May 2025 - Aug 2025
+	Geomechanical experiments including hydraulic fracturing and electrical pulse fracturing
+	Developing biaxial machine
 
 •	**Graduate Student Instructor and Research Assistant**, Cornell University, Aug 2021 - Dec 2025
 
 •	**Geophysical Researcher at JangBogo Station in Antarctica**, Korea Polar Research Institute, Nov 2019 - Apr 2021
+	Management of geophysical equipment
+	Analysis of the earthquake signal
