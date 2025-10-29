@@ -21,15 +21,17 @@ corresponding author(*) and co-first author (+)
 - **Song, J.Y.**, Sim, Y., Yeom, S., Jang, J., and Yun, T.S.(*) (2020). Stiffness loss in enzyme-induced carbonate precipitated sand with stress scenarios. **Geomechanics and Engineering**, 20(2), 165-174. [https://doi.org/10.12989/gae.2020.20.2.165](https://doi.org/10.12989/gae.2020.20.2.165)
 - **Song, J.Y.**, Sim, Y., Jang, J., Hong, W., and Yun, T.S.(*) (2019). Near-surface soil stabilization by enzyme induced carbonate precipitation for fugitive dust supperession. **Acta Geotechnica**, 1-14. [https://doi.org/10.1007/s11440-019-00881-z](https://doi.org/10.1007/s11440-019-00881-z)
 
-#### Domestic (in Korean)
+#### Papers (in Korean)
 - **Song, J.Y.**, Ha, S.J., Jang, J.W., and Yun, T.S. (2020). Analysis of improved shear stiffness and strength for sandy soils treated by EICP. Journal of the Korean Geotechnical Society, 36(1), 17-28. 
 - **Song, J.Y.**, Ha, S.J., Sim, Y., Jin, K-N., and Yun, T.S. (2019). Fine dust suppression by Enzyme Induced Carbonate Precipitation: Indoor experiment and field application. Journal of the Korean Geotechnical Society, 35(10), 67-78. 
 - **Song, J.Y.**, Lee, J., Lee, S-W., Lee, J., and Yun, T.S. (2018). Evaluation of freezing patterns for sand and clay by using X-ray CT. Journal of the Korean Geotechnical Society, 34(3), 57-65. 
 - **Song, J.Y.**, Sim, Y., Jin, K-N., and Yun, T.S. (2017). Evaluation of soil improvement by carbonate precipitation with urease. Journal of the Korean Geotechnical Society, 33(9), 61-69. 
 
 
-### Conference Papers
-
+### Conferences
+- **Song, J.Y.** and McLaskey, G.C. (2024). Laboratory Experiments with Eleven Velocity-Weakening Patches Separated by Velocity-Strengthening Barriers Illuminate the Mechanisms Behind Apparent Inverse Fault Healing and Rapid Tremor Reversals. Oral presentation delivered at AGU Fall Meeting 2024, Walter E. Washington Convention Center, Washington, D.C., USA.
+-	**Song, J.Y.** and McLaskey, G.C. (2024). Experimental study of heterogeneous velocity-weakening and velocity-strengthening faults: a single velocity-weakening patch and multiple patches separated by velocity-strengthening barriers. Poster presentation delivered at Rock deformation GRC 2024, Bates College, Maine, USA.
+-	Cebry S.B.L., **Song, J.Y.**, and McLaskey, G.C. (2024). Laboratory study of dynamic rupture confinement and shape in 1D and 2D: comparison to slider-block model and the effects of stress drop and rupture shape. Poster presentation delivered at Rock deformation GRC 2024, Bates College, Maine, USA.
 - **Song, J.Y.** and McLaskey, G.C. (2023). Experimental study of an isolated seismic asperity surrounded by a velocity strengthening fault: aseismic slip, periodic slip, and non-periodic slip. Poster presentation delivered at AGU Fall Meeting 2023, Moscone Center, San Francisco, USA.
 - **Song, J.Y.**, Dass, A., Moridi, A., and McLaskey, G.C. (2023). Crack detection using Acoustic Emission sensors in Additive Manufacturing. Oral presentation delivered at AEWG-64 2023, Crown Plaza Hotel, Princeton, New Jersey, USA.
 - **Song, J.Y.**, Cebry, S.B.L., and McLaskey, G.C. (2022). Laboratory investigation of heterogeneous fault segments and the effects on seismic shaking. Poster presentation delivered at AGU Fall Meeting 2022, McCormick Place Convention Center, Chicago, USA.
