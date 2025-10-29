@@ -22,7 +22,7 @@ Laboratory earthquake studies have often employed homogeneous fault conditions, 
 ### Investigating Anthropogenic Effects on Shear Failure
 Induced earthquakes from fluid injections pose significant threats to public safety, yet existing laboratory methods cannot replicate seismicity migration in real subsurface systems because fluid leakage limits the size of pressurized regions. To address this, I developed leakage-preventing techniques employing hydrophobic material (Teflon tape) to maintain fault pressurization, allowing experimental observation of previously inaccessible seismicity patterns. This research, collaborated with Prof. Chloé Arson’s research team at Cornell University, addresses critical questions about the factors controlling seismicity migration mechanisms, validated through poroelastic model (Figure 2). This work offers an experimentally grounded methodology revealing the core processes governing induced earthquakes, enhancing fundamental insights into human-induced seismicity. 
 <p align="center">
-<img width="400" height="300" alt="FluidInj" src="https://github.com/user-attachments/assets/d5e295bb-7f67-4cee-8225-08abbefd17e5" />
+<img width="350" height="300" alt="FluidInj" src="https://github.com/user-attachments/assets/d5e295bb-7f67-4cee-8225-08abbefd17e5" />
 </p>
 
 ### Monitoring Fracture Processes in Engineered Materials
