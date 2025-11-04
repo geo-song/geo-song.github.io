@@ -22,10 +22,10 @@ corresponding author(*) and co-first author (+)
 1. **Song, J.Y.**, Sim, Y., Jang, J., Hong, W., and Yun, T.S.(*) (2019). Near-surface soil stabilization by enzyme induced carbonate precipitation for fugitive dust supperession. **Acta Geotechnica**, 1-14. [https://doi.org/10.1007/s11440-019-00881-z](https://doi.org/10.1007/s11440-019-00881-z)
 
 #### Papers (in Korean)
-- **Song, J.Y.**, Ha, S.J., Jang, J.W., and Yun, T.S. (2020). Analysis of improved shear stiffness and strength for sandy soils treated by EICP. Journal of the Korean Geotechnical Society, 36(1), 17-28. 
-- **Song, J.Y.**, Ha, S.J., Sim, Y., Jin, K-N., and Yun, T.S. (2019). Fine dust suppression by Enzyme Induced Carbonate Precipitation: Indoor experiment and field application. Journal of the Korean Geotechnical Society, 35(10), 67-78. 
-- **Song, J.Y.**, Lee, J., Lee, S-W., Lee, J., and Yun, T.S. (2018). Evaluation of freezing patterns for sand and clay by using X-ray CT. Journal of the Korean Geotechnical Society, 34(3), 57-65. 
-- **Song, J.Y.**, Sim, Y., Jin, K-N., and Yun, T.S. (2017). Evaluation of soil improvement by carbonate precipitation with urease. Journal of the Korean Geotechnical Society, 33(9), 61-69. 
+[1.] **Song, J.Y.**, Ha, S.J., Jang, J.W., and Yun, T.S. (2020). Analysis of improved shear stiffness and strength for sandy soils treated by EICP. Journal of the Korean Geotechnical Society, 36(1), 17-28. 
+[1.] **Song, J.Y.**, Ha, S.J., Sim, Y., Jin, K-N., and Yun, T.S. (2019). Fine dust suppression by Enzyme Induced Carbonate Precipitation: Indoor experiment and field application. Journal of the Korean Geotechnical Society, 35(10), 67-78. 
+[1.] **Song, J.Y.**, Lee, J., Lee, S-W., Lee, J., and Yun, T.S. (2018). Evaluation of freezing patterns for sand and clay by using X-ray CT. Journal of the Korean Geotechnical Society, 34(3), 57-65. 
+[1.] **Song, J.Y.**, Sim, Y., Jin, K-N., and Yun, T.S. (2017). Evaluation of soil improvement by carbonate precipitation with urease. Journal of the Korean Geotechnical Society, 33(9), 61-69. 
 
 
 ### Conferences
