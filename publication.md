@@ -11,7 +11,7 @@ title: Publications
 
 corresponding author(*) and co-first author (+)
 1. **Song, J.Y.(+)**, Sun, Y.(+*), Cattania, C., and McLaskey, G.C. Experimental and Numerical Modeling of Earthquake Rupture Interactions Across Multiple Asperities and Barriers **In preparation**
-1. **Song, J.Y.(+)**, Cebry, S.B.L.(+), and McLaskey, G.C.* Fully Contained Laboratory Earthquakes: The Effect of Aspect Ratio of Rectangular Asperity and Free Surface **In preparation**
+1. **Song, J.Y.(+)**, Cebry, S.B.L.(+), and McLaskey, G.C.(*) Fully Contained Laboratory Earthquakes: The Effect of Aspect Ratio of Rectangular Asperity and Free Surface **In preparation**
 1. **Song, J.Y.(*)**, Lingfu Liu, Chloe Arson, and McLaskey, G.C. Experimental Insights into Fluid-Induced Fault Behavior: Seismicity Migration under Varying Injection Rate and Viscosity **Under review**. [https://doi.org/10.31223/X5QM9J](https://doi.org/10.31223/X5QM9J) 
 1. **Song, J.Y.(*)**, Cattania, C. and McLaskey, G., 2025. Fault healing and asperity partitioning on a frictionally heterogeneous laboratory fault. **Journal of Geophysical Research: Solid Earth (Accepted)**. [https://doi.org/10.22541/essoar.174886019.99803345/v1](https://doi.org/10.22541/essoar.174886019.99803345/v1) 
 1. Suh, H.S., **Song, J.Y.**, Kim, Y., Yu, X. and Choo, J.(*) (2024). Data-driven discovery of interpretable water retention models for deformable porous media. **Acta Geotechnica**, 19(6), pp.3821-3835. [https://doi.org/10.1007/s11440-024-02322-y](https://doi.org/10.1007/s11440-024-02322-y)
