@@ -9,7 +9,7 @@ cover-img: /assets/img/Cloud_wide.jpg
 
 ## About me
 
-I am a **Postdoctoral Researcher at Colorado School of Mines**, currently focusing on **time-dependent creep** in hydraulic fracturing. 
+I am a **Post-Doctoral Researcher at Colorado School of Mines**, currently focusing on **time-dependent creep** in hydraulic fracturing. 
 
 # Education
 •	**Ph.D.** Cornell University, Civil and Environmental Engineering, Dec 2025 (PI: Prof. Greg McLaskey)
@@ -20,7 +20,7 @@ I am a **Postdoctoral Researcher at Colorado School of Mines**, currently focusi
 
 
 # Professional experience
-•	**Post-Doctoral Fellow**, Colorado School of Mines, Civil and Environmental Engineering, Jan 2026 - Current (PI: Prof. Reza Hedayat)
+•	**Post-Doctoral Researcher**, Colorado School of Mines, Civil and Environmental Engineering, Jan 2026 - Current (PI: Prof. Reza Hedayat)
 
 	Laboratory time-dependent creep hydraulic fracturing
 
