@@ -7,7 +7,7 @@ cover-img: /assets/img/Cloud_wide.jpg
 
 <br/>
 
-## About me
+# About me
 
 I am a **Post-Doctoral Researcher at Colorado School of Mines**, currently focusing on **time-dependent creep** in hydraulic fracturing. 
 
