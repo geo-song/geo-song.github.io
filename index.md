@@ -9,9 +9,8 @@ cover-img: /assets/img/Cloud_wide.jpg
 
 ## About me
 
-I'm a **Ph.D. candidate at Cornell University**. I focus on **Quantitative Acoustic Emission** in Additive Manufacturing and Mechanics of **Heterogeneous Frictional Interfaces** in earthquakes.
-https://courses.cit.cornell.edu/mclaskey/people.html
+I am a **Postdoctoral Researcher at Colorado School of Mines**, currently focusing on **time-dependent creep** in hydraulic fracturing. My academic background includes a PhD where I explored **Mechanics of heterogeneous frictional interfaces** in earthquakes and **Quantitative Acoustic Emission** in additive manufacturing. 
 
 ## Contact
-js2795@cornell.edu
+junyoung.song@mines.edu
 
