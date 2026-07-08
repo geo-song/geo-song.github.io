@@ -10,12 +10,14 @@ title: Publications
 ### Journal Papers
 
 #### Works in progress
+1.	**Song, J.Y.(*)**, Butt, A., Zerpa, L., and Hedayat, A. Characteristics of Constant-Pressure Hydraulic Fracturing in Sandstone: A Laboratory Investigation Using Active and Passive Acoustic Emission Monitoring **In preparation**.
+1. Kun, Z., **Song, J.Y.(*)**, Yu. Y., Hedayat. A., and Rostami. J. Acoustic Emission Monitoring of Punch Penetration Tests: Energy Ratios and Practical Sensor Configurations for Brittleness Assessment **In preparation**.
 1. **Song, J.Y.(+)**, Sun, Y.(+)(*), Cattania, C., and McLaskey, G.C. Experimental and Numerical Modeling of Earthquake Rupture Interactions Across Multiple Asperities and Barriers **In preparation**
-1. Cebry, S.B.L.(+), **Song, J.Y.(+)(*)**, and McLaskey, G.C. Fully Contained Laboratory Earthquakes: The Effect of Aspect Ratio of Rectangular Asperity and Free Surface **Submitted**
-1. **Song, J.Y.(*)**, Lingfu Liu, Chloe Arson, and McLaskey, G.C. Experimental Insights into Fluid-Induced Fault Behavior: Seismicity Migration under Varying Injection Rate and Viscosity **Under review**. [https://doi.org/10.31223/X5QM9J](https://doi.org/10.31223/X5QM9J) 
-
+1. Cebry, S.B.L.(+), **Song, J.Y.(+)(*)**, and McLaskey, G.C. Fully Contained Laboratory Earthquakes: The Effect of Aspect Ratio of Rectangular Asperity and Free Surface **Under review**
+ 
 #### Published
 corresponding author(*) and co-first author (+)
+1. **Song, J.Y.(*)**, Lingfu Liu, Chloe Arson, and McLaskey, G.C. (2026). Seismicity Migration from Fluid Injection: Laboratory Experiments and Numerical Models Illuminate Volume-Driven versus Pressure-Diffusion-Driven Migration. **Earth and Planetary Science Letters**. [https://doi.org/10.1016/j.epsl.2026.120203](https://doi.org/10.1016/j.epsl.2026.120203)
 1. **Song, J.Y.(*)**, Cattania, C. and McLaskey, G.C. (2025). Fault healing and asperity partitioning on a frictionally heterogeneous laboratory fault. **Journal of Geophysical Research: Solid Earth**. [https://doi.org/10.1029/2025JB032055](https://doi.org/10.1029/2025JB032055) 
 1. Suh, H.S., **Song, J.Y.**, Kim, Y., Yu, X. and Choo, J.(*) (2024). Data-driven discovery of interpretable water retention models for deformable porous media. **Acta Geotechnica**, 19(6), pp.3821-3835. [https://doi.org/10.1007/s11440-024-02322-y](https://doi.org/10.1007/s11440-024-02322-y)
 1. **Song, J.Y.** and McLaskey, G.C.(*) (2024). Laboratory earthquake ruptures contained by velocity strengthening fault patches. **Journal of Geophysical Research: Solid Earth**, 129(4), p.e2023JB028509. [https://doi.org/10.1029/2023JB028509](https://doi.org/10.1029/2023JB028509) (Highlight: [https://eos.org/research-spotlights/the-secret-to-mimicking-natural-faults-plexiglass-and-teflon](https://eos.org/research-spotlights/the-secret-to-mimicking-natural-faults-plexiglass-and-teflon))
