@@ -10,9 +10,9 @@ title: Publications
 ### Journal Papers
 
 #### Works in progress
-1.	**Song, J.Y.(*)**, Butt, A., Zerpa, L., and Hedayat, A. Characteristics of Constant-Pressure Hydraulic Fracturing in Sandstone: A Laboratory Investigation Using Active and Passive Acoustic Emission Monitoring **In preparation**.
 1. Kun, Z., **Song, J.Y.(*)**, Yu. Y., Hedayat. A., and Rostami. J. Acoustic Emission Monitoring of Punch Penetration Tests: Energy Ratios and Practical Sensor Configurations for Brittleness Assessment **In preparation**.
 1. **Song, J.Y.(+)**, Sun, Y.(+)(*), Cattania, C., and McLaskey, G.C. Experimental and Numerical Modeling of Earthquake Rupture Interactions Across Multiple Asperities and Barriers **In preparation**
+1.	**Song, J.Y.(*)**, Butt, A., Zerpa, L., and Hedayat, A. Characteristics of Constant-Pressure Hydraulic Fracturing in Sandstone: A Laboratory Investigation Using Active and Passive Acoustic Emission Monitoring **Submitted**.
 1. Cebry, S.B.L.(+), **Song, J.Y.(+)(*)**, and McLaskey, G.C. Fully Contained Laboratory Earthquakes: The Effect of Aspect Ratio of Rectangular Asperity and Free Surface **Under review**
  
 #### Published
